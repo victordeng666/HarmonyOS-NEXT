@@ -1,4 +1,6 @@
-Create the first project
+# Understand the structure of HarmonyOS NEXT engineering directory
+
+##Create the first project
 If you are opening DevEco Studio for the first time, you will first enter the welcome page.
 
 Click "Create Project" on the welcome page to enter the project creation page.
@@ -14,7 +16,7 @@ In the configuration page, the detailed information is as follows:
 Device type: Phone, Tablet, 2-in-1 2-in-1 tablet, Car tablet
 Then click 'Finish' to complete the project creation and wait for the project synchronization to complete.
 
-Understand the Basic Engineering Catalog
+## Understand the Basic Engineering Catalog
 reference material:
 https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/application-package-structure-stage-V5
 
